@@ -6,4 +6,7 @@ $(document).ready(function () {
   $('tr.skills').click(function () {
     $('div#skills').slideToggle();
   });
+  $('tr.portfolio').click(function () {
+    location.replace("portfolio.html");
+  });
 })
