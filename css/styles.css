@@ -1,3 +1,8 @@
+img {
+	height: 200px;
+	border-radius: 50%;
+}
+
 #name {
 	font-family: "Helvetica Neue";
 }
@@ -18,5 +23,9 @@
 }
 
 #contacts {
+	display: none;
+}
+
+#skills {
 	display: none;
 }

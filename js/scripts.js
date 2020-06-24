@@ -1,5 +1,9 @@
 $(document).ready(function () {
-  $('span#contact').click(function () {
+  $('tr.contacts').click(function () {
     $('div#contacts').slideToggle();
+  });
+
+  $('tr.skills').click(function () {
+    $('div#skills').slideToggle();
   });
 })
