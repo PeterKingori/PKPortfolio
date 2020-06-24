@@ -3,11 +3,11 @@
 #### By **Peter Kingori**
 ## Description
 This is a landing page to showcase my work on my journey as a developing website developer and programmer.
-I have used the most common HTML tags. The styling has been done in a separate CSS file. The link to the live site on Github Pages is https://peterkingori.github.io/PortfolioLandingPage/
+I have used the most common HTML tags. The styling has been done in a separate CSS file. The link to the live site on Github Pages is https://peterkingori.github.io/Portfolio/
 ## Setup/Installation Requirements
-You can find the code for this project at this link https://github.com/PeterKingori/PortfolioLandingPage
+You can find the code for this project at this link https://peterkingori.github.io/Portfolio/
 ## Technologies Used
-HTML and CSS.
+HTML, CSS and JavaScript.
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns do not hesitate to contact me.  
 ### GNU GENERAL PUBLIC LICENSE

@@ -1,0 +1,18 @@
+#name {
+	font-family: "Helvetica Neue";
+}
+
+.table-row-1:hover {
+	cursor: pointer;
+	background-color: yellow;
+}
+
+.table-row-2:hover {
+	cursor: pointer;
+	background-color: lawngreen;
+}
+
+.table-row-3:hover {
+	cursor: pointer;
+	background-color: orangered;
+}
