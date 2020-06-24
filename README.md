@@ -2,8 +2,7 @@
 #### A Landing Page for my portfolio
 #### By **Peter Kingori**
 ## Description
-This is a landing page to showcase my work on my journey as a developing website developer and programmer.
-I have used the most common HTML tags. The styling has been done in a separate CSS file. The link to the live site on Github Pages is https://peterkingori.github.io/Portfolio/
+This is a landing page to showcase my work on my journey as a website developer and programmer. The link to the live site on Github Pages is https://peterkingori.github.io/Portfolio/
 ## Setup/Installation Requirements
 You can find the code for this project at this link https://peterkingori.github.io/Portfolio/
 ## Technologies Used
