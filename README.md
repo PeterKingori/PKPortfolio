@@ -1,5 +1,5 @@
 # Portfolio Landing Page
-#### A Landing Page for my programming portfolio, 19th April 2019
+#### A Landing Page for my portfolio
 #### By **Peter Kingori**
 ## Description
 This is a landing page to showcase my work on my journey as a developing website developer and programmer.
